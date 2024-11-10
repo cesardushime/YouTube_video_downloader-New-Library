@@ -1,4 +1,4 @@
-## YouTube Video Downloader with yt-dlp (README.md)
+## YouTube Video Downloader with yt-dlp
 
 This Python script utilizes `yt-dlp` to download videos and extract audio from YouTube URLs.
 
